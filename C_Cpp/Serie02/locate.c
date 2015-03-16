@@ -8,8 +8,6 @@ double locate(double dist, double r) {
   else
     return 0;
 }
-
-
 main() {
   double x,y,u,v,r,dist=0;
   printf("Enter the center of Circle\n");
